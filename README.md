@@ -11,4 +11,4 @@ Overall, just head over to [ResearchApps.ipynb], click on the "Open in Colab" bu
   
 I can't wait to meet you all and it's gonna be a wild ride :)
 
-  [ResearchApps.ipynb]: "ResearchApps.ipynb"
+  [ResearchApps.ipynb]: "/ResearchApps.ipynb"
