@@ -11,7 +11,7 @@ I can't wait to meet you all and it's gonna be a wild ride :)
 
 #### Thanks, Irsyad Adam
 
-
+---------------------------------
 
   [ResearchApps.ipynb]: ResearchApps.ipynb
 
