@@ -12,6 +12,15 @@ I can't wait to meet you all and it's gonna be a wild ride :)
 #### Thanks, Irsyad Adam
 
 ---------------------------------
+### DataRes Projects Overview:
+  
+  S22: Classic Neural Network Applications and Pipelines
+  
+  F23: Real-time Object Detection using OpenCV
+  
+  W23: Social Analysis using Networks and Graph Convolutional Networks
+  
+ 
 
   [ResearchApps.ipynb]: ResearchApps.ipynb
 
