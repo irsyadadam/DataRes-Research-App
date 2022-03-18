@@ -14,7 +14,7 @@ I can't wait to meet you all and it's gonna be a wild ride :)
 ---------------------------------
 ### DataRes Projects Overview:
   
-  S22: Classic Neural Network Applications and Pipelines
+  S22: Classic Machine Learning Applications and Pipelines
   
   F23: Real-time Object Detection using OpenCV
   
